@@ -1,0 +1,20 @@
+/*CMD
+  command: /208
+  help: 
+  need_reply: false
+  auto_retry_time: 
+  folder: buy socail💵
+
+  <<ANSWER
+
+  ANSWER
+
+  <<KEYBOARD
+
+  KEYBOARD
+  aliases: 208
+CMD*/
+
+var button = [[{ text: "send transetion id and confirm payment✅️", callback_data: "/buyreplayforadmin" }]]
+
+Api.sendPhoto({ photo: "https://i.top4top.io/p_2645drgg40.png", caption: "scan qr code and pay 100₹⚡️ or you can use showing payment id", reply_markup: { inline_keyboard : button }, parse_mode: "Markdown" })
