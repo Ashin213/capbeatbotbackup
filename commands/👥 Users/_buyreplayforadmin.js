@@ -17,6 +17,18 @@ https://sociallink.in/@yourchannel
 with plan code 089
 
 like this
+
+*OR*
+
+_DEMO_
+
+after your regiatration completion you need to fill you deatails in that web
+
+`user id:
+time:
+date:
+ig id:
+task code:`
   ANSWER
 
   <<KEYBOARD
@@ -58,4 +70,3 @@ Api.forwardMessage({
 */
 
 Bot.sendMessage("confirmation has been sended.. ⚡️");
-
