@@ -4,7 +4,7 @@
   need_reply: true
   auto_retry_time: 
   folder: 🧔 admin
-  answer: Please input reply for user
+  answer: ok! you can send message now.
 
   <<KEYBOARD
 

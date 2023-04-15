@@ -15,4 +15,4 @@
   aliases: 
 CMD*/
 
-Bot.sendMessage("@"+user.first_name+" you can't do this at this time we are completing the bot.")
+Bot.sendMessage("@"+user.username+" you were attained by @ashinsettan.")

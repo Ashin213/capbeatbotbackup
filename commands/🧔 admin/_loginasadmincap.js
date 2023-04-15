@@ -5,10 +5,7 @@
   auto_retry_time: 
   folder: 🧔 admin
   answer: enter password
-
-  <<KEYBOARD
-
-  KEYBOARD
+  keyboard: 
   aliases: 
 CMD*/
 
@@ -25,4 +22,3 @@ if (message == "admin203") {
 }
 
 Bot.sendMessage(msg)
-

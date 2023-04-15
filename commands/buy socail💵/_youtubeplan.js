@@ -6,9 +6,9 @@
   folder: buy socail💵
 
   <<ANSWER
-        *active plan*
+*active plan*
 
-2500sub = 200₹ code - `806` *expire april 12*
+2500sub = 250₹ code - `806` *offer expired*
 1000sub = 100₹ code - `208`
 1500sub = 150₹ code - `190`
 2000sub = 200₹ code - `890`
